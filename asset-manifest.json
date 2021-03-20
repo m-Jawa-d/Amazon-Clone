@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Amazon-Clone/static/css/main.73aa35b3.chunk.css",
+    "main.js": "/Amazon-Clone/static/js/main.bc47b878.chunk.js",
+    "main.js.map": "/Amazon-Clone/static/js/main.bc47b878.chunk.js.map",
+    "runtime-main.js": "/Amazon-Clone/static/js/runtime-main.140234fd.js",
+    "runtime-main.js.map": "/Amazon-Clone/static/js/runtime-main.140234fd.js.map",
+    "static/css/2.74c02967.chunk.css": "/Amazon-Clone/static/css/2.74c02967.chunk.css",
+    "static/js/2.f53578f0.chunk.js": "/Amazon-Clone/static/js/2.f53578f0.chunk.js",
+    "static/js/2.f53578f0.chunk.js.map": "/Amazon-Clone/static/js/2.f53578f0.chunk.js.map",
+    "index.html": "/Amazon-Clone/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/Amazon-Clone/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.73aa35b3.chunk.css.map": "/Amazon-Clone/static/css/main.73aa35b3.chunk.css.map",
+    "static/js/2.f53578f0.chunk.js.LICENSE.txt": "/Amazon-Clone/static/js/2.f53578f0.chunk.js.LICENSE.txt",
+    "static/media/Amazon_logo.27251bf6.png": "/Amazon-Clone/static/media/Amazon_logo.27251bf6.png",
+    "static/media/Amazon_logo4.9461d15a.jpg": "/Amazon-Clone/static/media/Amazon_logo4.9461d15a.jpg",
+    "static/media/Banner.56ff8975.jpg": "/Amazon-Clone/static/media/Banner.56ff8975.jpg",
+    "static/media/Laptop.62145b39.jpg": "/Amazon-Clone/static/media/Laptop.62145b39.jpg",
+    "static/media/RTX.d9c47743.jpg": "/Amazon-Clone/static/media/RTX.d9c47743.jpg",
+    "static/media/Samsung-moniter.63ec2974.jpg": "/Amazon-Clone/static/media/Samsung-moniter.63ec2974.jpg",
+    "static/media/add.60d27499.jpg": "/Amazon-Clone/static/media/add.60d27499.jpg",
+    "static/media/backwall.fc8b25ba.jpg": "/Amazon-Clone/static/media/backwall.fc8b25ba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.140234fd.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.f53578f0.chunk.js",
+    "static/css/main.73aa35b3.chunk.css",
+    "static/js/main.bc47b878.chunk.js"
+  ]
+}
